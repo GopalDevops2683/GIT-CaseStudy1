@@ -1,1 +1,1 @@
-# GIT-CaseStudy1
+# GIT-CaseStudy2
